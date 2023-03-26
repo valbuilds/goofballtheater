@@ -86,10 +86,7 @@ I'm glad you asked!
 
 <hr>
 
-Polls close soon!
-{: .label .label-yellow }
-
-<div style="background-color:#ed4c4c; padding-top:3px; padding-bottom:3px; padding-left:3px; padding-right:3px;">
+<div style="background-color:#ba3336; padding-top:3px; padding-bottom:3px; padding-left:3px; padding-right:3px;">
     <p style="color: white;" id="closein"></p>
     <p style="color: white;" id="count"></p>
     <p style="color: white;" id="wait"><small>Countdown loading... Please be patient.</small></p>
@@ -106,8 +103,8 @@ Polls close soon!
         var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
         var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
         var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-        count.innerHTML = "<b>" + days + "d " + hours + "h " + minutes + "m " + seconds + "s " + "</b>";
-        closein.innerHTML = "In fact, they close in:";
+        count.innerHTML = "<b>" + hours + "h " + minutes + "m " + seconds + "s " + "</b>";
+        closein.innerHTML = "Polls close in:";
         wait.remove();
         if (distance < 0){
             clearInterval(x);
@@ -119,7 +116,7 @@ Polls close soon!
 
 <hr>
 
-## Extra notes
+## References
 {: .text-delta }
 
 [^1]: Unless it's a Head Admin election, then it'll be up to a coin flip.
