@@ -1,6 +1,10 @@
 title: The Goofball Theater
 description: Beyond devious.
-theme: just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+remote_theme: just-the-docs/just-the-docs
+
 
 url: https://goofball.world.katiebuilds.website
 
