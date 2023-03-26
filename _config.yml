@@ -1,0 +1,20 @@
+title: The Goofball Theater
+description: Beyond devious.
+theme: just-the-docs
+
+url: https://goofball.world.katiebuilds.website
+
+color_scheme: dark
+
+aux_links:
+  Join: https://discord.gg/vXXFg2SKa7
+
+callouts:
+  notice:
+    title: Notice
+    color: yellow
+
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.1.3"
