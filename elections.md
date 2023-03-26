@@ -7,7 +7,7 @@ nav_order: 2
 # Elections
 {: .no_toc }
 
-<details open markdown="block">
+<details markdown="block">
   <summary>
     Table of contents
   </summary>
@@ -31,12 +31,33 @@ Now, one owner can't do this, the majority of owners have to agree to overrule a
 {: .notice }
 These results are not updating live!
 
+{: .blurp }
+Want to get in on the action? [Join the Discord](https://discord.gg/vXXFg2SKa7)!
+
+<hr>
+
 ### Head Admin
 
 | Username | Avatar | Votes |
 | :--- | :--- | :--- |
-| 💠 **AshyTheOnly** | !["AshyTheOnly"](https://cdn.discordapp.com/avatars/792199404622577704/58e785a1e3a47e97b789c6b781c32b00.webp?size=512) | **4 (100%)** |
+| 🛝💠 **AshyTheOnly** | !["AshyTheOnly"](https://cdn.discordapp.com/avatars/792199404622577704/58e785a1e3a47e97b789c6b781c32b00.webp?size=512) | **4 (100%)** |
 | Aurel ~\`Sys\`~ | !["Aurel ~`Sys`~"](https://cdn.discordapp.com/avatars/624749415034519603/754016050abf6e66a100cb617c3884c7.webp?size=512) | 0 (0%) |
+
+Last updated: Mar 26, 2023 at 20:06 (CDT, UTC -5)
+
+<details markdown="block">
+  <summary>
+    What are those emojis?
+  </summary>
+  {: .text-delta }
+I'm glad you asked!
+
+- A 🛝 emoji means that the election is or was a landslide. This is awarded if the option has over 90% of the vote.
+- A 💠 emoji indicates the winner[^2] of the election.
+- A 🔨 emoji means that the user [^3] is incumbent[^4].
+</details>
+
+<hr>
 
 ### Ballot Measure 3.23-1 | Soundboard
 Discord is adding a sound board feature. Should we limit it?
@@ -48,6 +69,22 @@ Discord is adding a sound board feature. Should we limit it?
 | Yes, staff only | 0 (0%) |
 | Yes, level 20+ | 0 (0%) |
 | No | 0 (0%) |
+
+Last updated: Mar 26, 2023 at 20:06 (CDT, UTC -5)
+
+<details markdown="block">
+  <summary>
+    What are those emojis?
+  </summary>
+  {: .text-delta }
+I'm glad you asked!
+
+- A 🛝 emoji means that the election is or was a landslide. This is awarded if the option has over 90% of the vote.
+- A 💠 emoji indicates the winner[^2] of the election.
+- A 🔨 emoji means that the user [^3] is incumbent[^4].
+</details>
+
+<hr>
 
 Polls close soon!
 {: .label .label-yellow }
@@ -86,3 +123,9 @@ Polls close soon!
 {: .text-delta }
 
 [^1]: Unless it's a Head Admin election, then it'll be up to a coin flip.
+
+[^2]: Either currently or outright.
+
+[^3]: Only used in Head Admin/Head Mod elections.
+
+[^4]: Incumbent: currently holding office.
