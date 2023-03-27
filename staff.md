@@ -29,13 +29,11 @@ nav_order: 3
 ### Head Admin
 
 {: .notice }
-[We are currently in process of electing a Head Admin](/elections.html#head-admin).
+[^2] **AshyTheOnly**
 
 ### Admin
 
-🎨[^2] **AshyTheOnly**
-
-🎨[^2] **Aurel~\`Sys\`~**
+[^2] **Aurel~\`Sys\`~**
 
 ### Head Mod
 
@@ -59,4 +57,4 @@ None, apply [here](/apply.html).
 
 [^1]: This emoji means that the staff member is boosting the server!
 
-[^2]: This emoji means that the user is up for election!
+// [^2]: This emoji means that the user is up for election!
