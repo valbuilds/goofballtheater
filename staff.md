@@ -28,12 +28,11 @@ nav_order: 3
 
 ### Head Admin
 
-{: .notice }
-[^2] **AshyTheOnly**
+**AshyTheOnly**
 
 ### Admin
 
-[^2] **Aurel~\`Sys\`~**
+**Aurel~\`Sys\`~**
 
 ### Head Mod
 
@@ -56,5 +55,3 @@ None, apply [here](/apply.html).
 {: .text-delta }
 
 [^1]: This emoji means that the staff member is boosting the server!
-
-// [^2]: This emoji means that the user is up for election!
