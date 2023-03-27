@@ -85,7 +85,7 @@ I'm glad you asked!
     }, 1000);
 </script>
 <div style="background-color:#862527; padding-top:3px; padding-bottom:3px; padding-left:3px; padding-right:3px;">
-    <p><small>Check out the <a href="">source code for this countdown</a> on Github!</small></p>
+    <p><small>Check out the <a href="https://github.com/katiebuilder/goofballtheater/blob/2a66ce77de1ffbfd15ef72c42fe9a97f91b2c284/_elections/march2023.markdown?plain=1#LL65-L65C9">source code for this countdown</a> on Github!</small></p>
 </div>
 
 <hr>
