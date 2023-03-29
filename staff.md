@@ -16,9 +16,7 @@ nav_order: 3
 {:toc}
 </details>
 
-## Meet the staff team!
-
-### Owners
+## Owners
 
 **ACE5E**
 
@@ -26,28 +24,25 @@ nav_order: 3
 
 **Guy_**
 
-### Head Admin
+## Head Admin
 
 **AshyTheOnly**
 
-### Admin
+## Admin
 
 **Aurel~\`Sys\`~**
 
-### Head Mod
+## Head Mod
 
-{: .notice }
-None.
 
-### Mod
 
-{: .notice }
-None.
+## Mod
 
-### Trainees
 
-{: .notice }
-None, apply [here](/apply.html).
+
+## Trainees
+
+
 
 <hr>
 
